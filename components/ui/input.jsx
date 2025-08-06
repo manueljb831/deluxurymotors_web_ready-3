@@ -1,0 +1,1 @@
+export const Input = ({ placeholder, className }) => <input placeholder={placeholder} className={className} />;
